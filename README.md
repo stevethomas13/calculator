@@ -2,7 +2,7 @@
 
 Simple calculator app that does basic mathematical operations like add, subtract, mulitply, etc. The UI is based on the classic iPhone calculator.
 
-Live demonstration of the app can be found in [here](calx.vercel.app)
+Live demonstration of the app can be found in [here](https://xcalc.vercel.app)
 
 
 ## Recommended IDE Setup
